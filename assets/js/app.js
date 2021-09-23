@@ -53,15 +53,9 @@ let footer = $(`
         <div class="col-lg-6 col-md-12 mb-4 mb-md-0 form-comtainer">
           <div class="form-style-6">
              <div class="form-header">
-                <h6 class="display">Get in Touch</h6>
+                <h6 class="display">Please feel free to Get in Touch <br> on my mail at <a href = "mailto: gagangautam.nitdgp@gmail.com">gagangautam.nitdgp@gmail.com</a> <br> or contact me on my handles below!</h6>
               </div>
-                <form>
-                  <form action="https://forms.gle/TJKJZpSYGA9sk9K67" method="POST" accept-charset="UTF-8" >
-                  <input type="text" name="field1" placeholder="Your Name" required/>
-                  <input type="email" name="field2" placeholder="Email Address"  required/>
-                  <textarea name="field3" placeholder="Type your Message" required></textarea>
-                  <input type="submit" value="Send" />
-                </form>
+                
              </div>
           </div>
         </div>
