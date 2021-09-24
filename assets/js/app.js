@@ -53,7 +53,7 @@ let footer = $(`
         <div class="col-lg-6 col-md-12 mb-4 mb-md-0 form-comtainer">
           <div class="form-style-6">
              <div class="form-header">
-                <p class="display">Please feel free to Get in Touch </p> <p class="display"> on my mail at </p> <p class="display"> <a href = "mailto: gagangautam.nitdgp@gmail.com">gagangautam.nitdgp@gmail.com</a> </p> <p class="display"> or contact me on my handles below. Check 1</p>
+                <p class="display">Please feel free to Get in Touch </p> <br> <p class="display"> on my mail at </p> <p class="display"> <a href = "mailto: gagangautam.nitdgp@gmail.com">gagangautam.nitdgp@gmail.com</a> </p> <br> <p class="display"> or contact me on my handles below. Check 10</p>
               </div>
                 
              </div>
