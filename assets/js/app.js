@@ -18,6 +18,7 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experience</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Case Study</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="Resume.pdf">Resume</a></li>
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()">
    </li>
@@ -53,7 +54,7 @@ let footer = $(`
         <div class="col-lg-6 col-md-12 mb-4 mb-md-0 form-comtainer">
           <div class="form-style-6">
              <div class="form-header">
-                <p class="display" style="margin-bottom:0.5cm;">Please feel free to Get in Touch </p><p class="display" style="margin-bottom:0.5cm;"> on my mail at </p> <p class="display" style="margin-bottom:0.5cm;"> <a href = "mailto: gagangautam.nitdgp@gmail.com">gagangautam.nitdgp@gmail.com</a> </p><p class="display" style="margin-bottom:0.5cm;"> or contact me on my handles below. Check 11</p>
+                <p class="display" style="margin-bottom:0.5cm;">Please feel free to Get in Touch </p><p class="display" style="margin-bottom:0.5cm;"> on my mail at </p> <p class="display" style="margin-bottom:0.5cm;"> <a href = "mailto: gagangautam.nitdgp@gmail.com">gagangautam.nitdgp@gmail.com</a> </p><p class="display" style="margin-bottom:0.5cm;"> or contact me on my handles below. Check 100</p>
               </div>
                 
              </div>
